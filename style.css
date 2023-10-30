@@ -1,0 +1,35 @@
+body {background-color: black;}
+
+h1 {color: white;}
+h1 {font-size: 340%;}
+h1 {text-align: center;}
+h1 {border:solid 3PX rgba ()247, 247, 6, 0.884;}
+
+h2{font-size: 150%;}
+h2{color: green;}
+h2{text-align: center;}
+h2{word-spacing: 30%;}
+
+#bb {margin-right: 30%;}
+#bb {width: 40%;}
+#bb {size: -1000%;}
+#bb {border-color: red;}
+
+#dd {margin-right: 30%;}
+#dd {width: 40%;}
+#dd {size: -1000%;}
+#dd {border-color: red;}
+
+#rz {margin-right: 30%;}
+#rz {width: 40%;}
+#rz {size: -1000%;}
+#rz {border-color: red;}
+
+#bb{margin-left: 29%;}
+#bb{border: solid white}
+
+#dd{margin-left: 29%;}
+#dd{border: solid white}
+
+#rz{margin-left: 29%;}
+#rz{border: solid white}
